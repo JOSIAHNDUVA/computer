@@ -1,0 +1,20 @@
+//usage of operators
+
+#include <stdio.h>
+int main() 
+{
+int x=8,y=4,add,sub,mul,div,mod;
+add=x+y;
+sub=x-y;
+mul=x*y;
+div=x/y;
+mod=x%y;
+printf("addition of x,y is:%d",add);
+printf("substraction of x,y is:%d",sub);
+printf("multiplication of x,y is:%d",mul);
+printf("division of x,y is :%d",div);
+printf("modulus of x,y is :%d",mod);
+
+
+return 0;
+}

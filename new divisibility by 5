@@ -1,0 +1,11 @@
+//divisibility of number by  five
+
+#include <stdio.h>
+int main() 
+{
+int a=10,div=5;
+div=a/5;
+printf("division of a,5 is:%d",div);
+
+return 0;
+}
