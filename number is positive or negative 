@@ -1,0 +1,15 @@
+//determine number is positive or negative
+#include<stdio.h>
+void main()
+{
+int x= 10;
+if(x=+x,-x)
+{
+printf("x is positive");
+}
+else
+{
+printf("x is negative");
+}
+}
+
