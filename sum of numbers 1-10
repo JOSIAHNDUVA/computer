@@ -1,0 +1,13 @@
+//sum of numbers 1-10
+#include<stdio.h>
+int main()
+{
+int Total=1,a;
+for(a=1;a<11;a++)
+{
+Total+=a;//
+}
+printf("Total=%d",Total);
+
+return 0;
+}
