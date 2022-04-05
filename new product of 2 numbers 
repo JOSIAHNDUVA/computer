@@ -1,0 +1,10 @@
+// product of two numbers
+#include <stdio.h>
+int main() 
+{
+int x=3,y=5,mul;
+
+mul=x*y;
+printf("multiplication of x,y is:%d/n",mul);
+return 0;
+}

@@ -1,0 +1,12 @@
+// sum of five numbers
+#include <stdio.h>
+int main()
+{
+int b=4;
+int c=2;
+int d=5;
+int e=1;
+int z=7;
+printf("%d<b+c+d+e+z>");
+return 0;
+}

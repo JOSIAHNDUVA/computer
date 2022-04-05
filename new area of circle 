@@ -1,0 +1,11 @@
+// product of two numbers
+#include <stdio.h>
+int main() 
+{
+int r=7,π,mul;
+mul =π*r;
+
+
+printf("multiplication of π,r is:%d/n",mul);
+return 0;
+}
