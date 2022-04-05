@@ -1,0 +1,10 @@
+//sum of five numbers
+#include<stdio.h>
+int main()
+{
+int a=5,b=3,c=8,d=2,e=10,add;
+add=a+b+c+d+e;
+printf("addition of a,b,c,d,e is:%d",add);
+
+return 0;
+}
