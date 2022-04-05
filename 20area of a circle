@@ -1,0 +1,11 @@
+//area of a circle
+#include <stdio.h>
+int main() 
+{
+int r=7,π,mul;
+mul =π*r;
+
+
+printf("multiplication of π,r is:%d/n",mul);
+return 0;
+}
